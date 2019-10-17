@@ -1,0 +1,4 @@
+#Wed Oct 16 17:44:04 CST 2019
+base.0=D\:\\gitee-ci\\gogs_gitee_git\\android_studio\\CameraTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
